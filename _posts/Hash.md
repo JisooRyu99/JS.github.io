@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Hash"
+title : "[자료구조] Hash"
 ---
 
 <br/>
