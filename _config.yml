@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Jisoo Ryu"
   avatar           : "/assets/images/IMG_9583.jpg"
-  bio              : "개발자이고 "
+  bio              : "개발자이고 싶은"
   location         : "Republic of Korea"
   email            :
   links:
@@ -288,3 +288,11 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true  
