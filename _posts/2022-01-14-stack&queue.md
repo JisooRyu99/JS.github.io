@@ -1,5 +1,5 @@
 ---
-layout : _post
+layout : post
 title : "[자료구조] stack & queue"
 date: 2021-01-14
 author_profile: true
