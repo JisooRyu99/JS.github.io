@@ -288,7 +288,8 @@ defaults:
       comments: # 블로그 댓글 기능 true
       share: true
       related: true
-      
+      sidebar: 
+        nav : sidebar
   # _pages
   - scope:
       path: "_pages"
