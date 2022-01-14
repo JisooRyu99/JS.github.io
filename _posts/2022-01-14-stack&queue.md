@@ -2,7 +2,7 @@
 layout : post
 title : "[자료구조] stack & queue"
 last_modified_at: 2021-01-14
-
+author_profile: true
 ---
 
 
