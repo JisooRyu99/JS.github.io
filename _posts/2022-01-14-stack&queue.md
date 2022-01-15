@@ -33,11 +33,10 @@ __--> LIFO (Last-In-First-Out) 구조__
 - 역순 문자열 만들기
 - 후위 표기법 계산
 - 수식의 괄호 검사 (연산자 우선순위 표현을 위한 괄호 검사)
-
 <br/>
 
 # Queue (FIFO)
-****
+*****
 ![queue](https://user-images.githubusercontent.com/90206705/149521916-e7bf9539-e7d7-4422-a1cf-cead1ccc0e82.jpg)
 
 #### 한쪽 끝에서 삽입 작업이, 다른 쪽 끝에서 삭제 작업이 양쪽으로 이루어짐. <br/>
