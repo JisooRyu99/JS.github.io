@@ -8,7 +8,6 @@ tags:
   - blog
 toc: true
 toc_sticky: true
-toc_label: "GITHUB BLOG START"
 toc_icon: "blog"
 ---
 
@@ -35,6 +34,7 @@ __--> LIFO (Last-In-First-Out) 구조__
 - 후위 표기법 계산
 - 수식의 괄호 검사 (연산자 우선순위 표현을 위한 괄호 검사)
 
+<br/>
 
 # Queue (FIFO)
 ****
