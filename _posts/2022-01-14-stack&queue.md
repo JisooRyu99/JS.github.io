@@ -37,7 +37,7 @@ __--> LIFO (Last-In-First-Out) 구조__
 <br/>
 <br/>
 
-*****
+
 # Queue (FIFO)
 *****
 
