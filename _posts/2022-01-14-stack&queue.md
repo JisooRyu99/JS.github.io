@@ -1,5 +1,5 @@
 ---
-title: "[Github Blog] Jekyll - minimal mistakes 시작하기"
+title: "[자료구조] stack & queue"
 categories:
   - Programmers
 tags:
