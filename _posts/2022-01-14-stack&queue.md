@@ -45,9 +45,9 @@ __--> LIFO (Last-In-First-Out) 구조__
 
 ![queue](https://user-images.githubusercontent.com/90206705/149521916-e7bf9539-e7d7-4422-a1cf-cead1ccc0e82.jpg)
 
-#### 한쪽 끝에서 삽입 작업이, 다른 쪽 끝에서 삭제 작업이 양쪽으로 이루어짐. <br/>
-#### queue의 rear에서 이루어지는 삽입연산 -> enQueue
-#### front에서 이루어지는 삭제연산 -> deQueue
+__한쪽 끝에서 삽입 작업이, 다른 쪽 끝에서 삭제 작업이 양쪽으로 이루어짐.__ <br/>
+__queue의 rear에서 이루어지는 삽입연산 -> enQueue__ <br/>
+__front에서 이루어지는 삭제연산 -> deQueue__ <br/>
 
 - queue 의 가장 첫 원소 -> front
 - 가장 끝 원소 -> rear
