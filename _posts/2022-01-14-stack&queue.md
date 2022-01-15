@@ -11,16 +11,6 @@ toc_sticky: true
 toc_icon: "blog"
 ---
 
-/*
-   Grid
-   ========================================================================== */
-$right-sidebar-width-narrow: 150px !default;
-$right-sidebar-width: 200px !default;
-$right-sidebar-width-wide: 250px !default;
-// $right-sidebar-width-narrow: 200px !default;
-// $right-sidebar-width: 300px !default;
-// $right-sidebar-width-wide: 400px !default;
-
 
 # Stack (LIFO)
 *****
@@ -47,6 +37,7 @@ __--> LIFO (Last-In-First-Out) 구조__
 <br/>
 <br/>
 
+*****
 # Queue (FIFO)
 *****
 ![queue](https://user-images.githubusercontent.com/90206705/149521916-e7bf9539-e7d7-4422-a1cf-cead1ccc0e82.jpg)
