@@ -1,10 +1,23 @@
----
-layout : post
-title : "[자료구조] stack & queue"
-date: 2021-01-14
-author_profile: true
----
+#---
+#layout : post
+#title : "[자료구조] stack & queue"
+#date: 2021-01-14
+#author_profile: true
+#---
 
+---
+title: "[Github Blog] Jekyll - minimal mistakes 시작하기"
+categories:
+  - Programmers
+tags:
+  - minimal mistakes
+  - jekyll
+  - blog
+toc: true
+toc_sticky: true
+toc_label: "GITHUB BLOG START"
+toc_icon: "blog"
+---
 
 # Stack (LIFO)
 *****
