@@ -1,7 +1,7 @@
 ---
 title: "[자료구조] stack & queue"
 categories:
-  - Programmers
+  - 자료구조
 tags:
   - minimal mistakes
   - jekyll
